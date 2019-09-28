@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Masallar ve Ninniler</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="icerik">
+        <item>hayvan sesleri</item>
+        <item>masallar</item>
+
+        <item>ninniler</item>
+    </string-array>
+    <string-array name="masallar">
+        <item>kırmızı baslikli kız</item>
+        <item>cindirella</item>
+        <item>agustos boce ve karınca</item>
+        <item>deniz kızı </item>
+        <item>kibritci kız </item>
+        <item>aslan ve fare </item>
+        <item>hansel ve gratel </item>
+        <item>bremen mızıkacıları</item>
+        <item>cirkin ördek yavrusu</item>
+        <item>pinokyo</item>
+        <item>kırmızı balık</item>
+
+        <item>alaaddinin sihirli lambası</item>
+        <item>peterpan</item>
+        <item>parmak cocuk</item>
+        <item>mutlu prens</item>
+        <item>altın saçlı kız</item>
+
+
+    </string-array>
+    <string-array name="ninniler">
+        <item>dandini dandini</item>
+        <item>fisfis kayikci</item>
+        <item>benim annem guzel annem</item>
+        <item>kirmizi balik gölde</item>
+        <item>annesi onu çok severmiş</item>
+        <item>ali babanın çiftliği</item>
+
+    </string-array>
+    <string-array name="hayvansesleri">
+        <item>kedi</item>
+        <item>köpek</item>
+        <item>aslan</item>
+        <item>yilan</item>
+        <item>fil</item>
+        <item>ari</item>
+        <item>kurt</item>
+        <item>tavuk</item>
+        <item>civciv</item>
+        <item>at</item>
+        <item>eşek</item>
+        <item>inek</item>
+        <item>kuzu</item>
+        <item>horoz</item>
+
+
+    </string-array>
+
+</resources>
